@@ -19,7 +19,6 @@ import watch3 from "../assets/products/watch-prod-3.webp"
 
 
 const data = [
-    {"id":1,"title":"2023 wireless ear clip earphone ","price":150,"imgUrl":ear1},
     {"id":2,"title":"Bose QuietComfort Earbuds II Truly","price":30,"imgUrl":head1},
     {"id":3,"title":"Solo X50 Bluetooth Speaker","price":90,"imgUrl":speak5},
     {"id":4,"title":"F9 hotselling smart touch control ","price":250,"imgUrl":ear2},
