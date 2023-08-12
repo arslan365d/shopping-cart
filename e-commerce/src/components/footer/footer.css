@@ -1,0 +1,15 @@
+.bg-black{
+    background-color: black;
+    margin-top: 40px;
+}
+.footer-container{
+    max-width: 1190px;
+    overflow: hidden;
+    margin-inline: auto;
+    padding-inline: 20px;
+}
+.footer-container p {
+    text-align: center;
+    padding-block: 20px;
+    color: white;
+}

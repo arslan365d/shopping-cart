@@ -1,0 +1,41 @@
+.bg-homeNav{
+    background-color: black;
+}
+.homeNav-container{
+    max-width: 1180px;
+    margin-inline: auto;
+    padding-block: 20px;
+    padding-inline: 20px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.homeNav-left h2{
+    font-size: 30px;
+    color: white;
+}
+.text-blue{
+    color: lightskyblue;
+}
+
+.cart-num{
+    color: white;
+
+}
+.login-button{
+    padding-inline: 24px;
+    padding-block: 11px;
+    background-color: lightskyblue;
+    color: white;
+    border: 0;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.login-button img {
+    width: 12px;
+}
+.login-button:hover {
+    background-color: white;
+    color: black;
+}
